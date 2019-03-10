@@ -4,10 +4,13 @@
 
 <div class="jumbotron">
   <h1>{{ $title }}</h1>
-  <p>This is the laravel application from "laravel from scratch"</p>
+  <p>This is a blog about a weird guy who likes Jeeps, and may not hold any value to anyone</p>
+  
   
   <p class="lead">
-    <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+    <a class="btn btn-primary btn-lg" href="/posts" role="button">See my Posts</a>
   </p>
 </div>
+
+<p>In the mean time, enjoy your stay here..</p>
 @endsection
