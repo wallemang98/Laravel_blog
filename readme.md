@@ -1,3 +1,11 @@
+## Howdy Friend,
+Welcome to this wonderful blog of mine. It's not a official blog, but acting as an Laravel Playground. Watch me climb to the top!
+- Testing to implement my current projects into Laravel, as I go they will be added here
+- As I'm playing around, I’ll mark-up my silliness, but you may find some interesting blocks of code deep within. 
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
